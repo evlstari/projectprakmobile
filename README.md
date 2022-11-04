@@ -27,4 +27,4 @@ selamat ngoding!
 
 output
 
-![image.png <img width="250">](https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png =250x)
+[<img src="https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png" width="250">]
