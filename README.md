@@ -26,4 +26,5 @@ step-3
 selamat ngoding!
 
 output
-![image.png](https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png)
+
+![image.png](https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png=250x250)
