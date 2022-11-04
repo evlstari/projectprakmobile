@@ -24,3 +24,6 @@ Cek di pubspec.yaml, pastikan image_picker sudah terpasang. Setelah itu Pub get
 
 step-3 
 selamat ngoding!
+
+output
+![image.png]({https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png})
