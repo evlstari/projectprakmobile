@@ -27,4 +27,6 @@ selamat ngoding!
 
 output
 
-[<img src="https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png" width="250">]
+<img src="https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/tanpaImage.png" width="250">
+<img src="https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fcamera.png" width="250">
+<img src="https://github.com/evlstari/projectprakmobile/blob/main/dokumentasi/Fgallery.png" width="250">
